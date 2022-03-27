@@ -1,0 +1,63 @@
+#main {
+	width: 100%;
+}
+
+#header {
+	text-align: center;
+} 
+
+#topmenu { 
+    font-size:150%;
+    width:100%
+}
+
+#topmenu td {
+    text-align :center;
+}
+
+#topmenu p a {
+    text-decoration: none;
+    color: #000;
+}
+
+#topmenu p a:hover {
+    color: #01418f;
+}
+
+.right_td {
+    text-align: right;
+}
+
+#content {
+	width: 100%;
+}
+
+#content td {
+	vertical-align: top;
+}
+
+.article h1, .article_img {
+	text-align: center;
+}
+
+#banners_240 {
+	border-left: 1px solid  #000;
+	width: 240px;
+}
+
+#footer p {
+	text-align: center;
+}
+
+.article > div {
+    margin-bottom: 100px;
+}
+
+.article > div > h2 > a {
+    text-decoration: none;
+    color: #111;
+}
+
+.article > div > h2 > a:hover {
+    color: #01418f;
+}
